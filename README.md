@@ -43,5 +43,3 @@ The analysis follows a 10-step workflow implemented in Python:
 *\*NDVI prediction yielded low R² values across all models, consistent with its direct mathematical derivation from the input spectral bands.*
 
 **Overall Best Model:** XGBoost achieved the highest average R² across all three targets (0.40).
-
-## 📁 Repository Structure
