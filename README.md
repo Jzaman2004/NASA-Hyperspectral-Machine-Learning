@@ -3,7 +3,6 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
 [![Earth Engine](https://img.shields.io/badge/Google-Earth%20Engine-4285F4.svg)](https://earthengine.google.com/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![ESA 2026](https://img.shields.io/badge/Conference-ESA%202026-2E8B57.svg)](https://esa2026.confex.com/)
 
 ## 📖 Overview
 
